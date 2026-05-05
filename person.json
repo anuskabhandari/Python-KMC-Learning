@@ -1,0 +1,11 @@
+{
+    "name": "ram",
+    "age": 22,
+    "address": "ktm",
+    "skills": [
+        "python",
+        "django"
+    ],
+    "is_programmer": true,
+    "phone": null
+}
